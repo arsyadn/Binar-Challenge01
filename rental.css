@@ -1,0 +1,75 @@
+body{
+    margin: 0; padding: 0;
+}
+
+.navbar-nav a{
+    font-size:14px;
+}
+
+.btn{
+    background-color:#5CB85F;
+    color: white;
+    font-size: 14px;
+}
+
+.btn:hover{
+    background-color: white;
+    color: #5CB85F;
+    border: 1px solid #5CB85F;
+}
+
+.hero-text h1{
+    font-size:36px;
+}
+
+.hero-text p, .description p, .mengapa, .kotak p, .testimonial p, .btn-sewa-mobil, .faq-text p, .accordion-button, .footer p, .footer a{
+    font-size:14px;
+}
+
+.description h1, .testimonial h1, .faq-text h1 p, .faq-text h3{
+    font-size: 24px;
+}
+
+.why-us h1{
+    font-size:24px;
+    font-weight: bold;
+}
+
+.kotak{
+    border: 1px solid #dbdbdb;
+    border-radius: 10px;
+}
+
+.kotak h1{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.cta-banner{
+    background-color:#0D28A6;
+    border-radius: 10px;
+}
+
+.sewa{
+    font-size: 36px;
+}
+
+.sewa-caption{
+    font-size:14px;
+    font-weight: 100;
+    line-height:20px;
+}
+
+.testi-user{
+    background-color: #F1F3FF;
+    border-radius: 10px;
+}
+
+.swiper-slide{
+    border-radius:10px;
+}
+
+.swiper-button-next-unique:active,
+.swiper-button-prev-unique:active {
+  background-color: #5cb85f;
+}
